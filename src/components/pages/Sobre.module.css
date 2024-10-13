@@ -1,0 +1,42 @@
+.skills h1 {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+}
+
+.skills h2 {
+    font-size: 25px;
+    color: rgb(72, 170, 226);
+    text-align: center;
+    margin-bottom: 1.5em;
+}
+
+.skills p.descricao {
+    text-align: center;
+}
+
+.skills h3{
+    font-size: 18px;
+    margin: 0.5em 2em;
+}
+
+span{
+    font-weight: bold;
+}
+
+.skills hr{
+    width: 100%;
+    margin: 2em auto;
+}
+
+.skills p{
+    margin: 0.5em 3em;
+}
+
+.skills ul{
+    margin: 0.5em 3em;
+}
+
+.skills ul li{
+    margin: 0.5em 0;
+}
