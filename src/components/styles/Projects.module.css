@@ -31,3 +31,22 @@
   margin: 5px;
   font-size: 20px;
 }
+
+.title{
+  margin: 0.5em auto;
+  text-align: center;
+  font-size: 45px;
+  text-shadow: 3px 3px 3px #FFF;
+  color: #000;
+}
+
+.descTitle{
+  margin: 0 4.5em;
+  text-align: center;
+  font-size: 25px;
+  color: #FFF;
+  border: 2px solid black;
+  padding: 0.5em;
+  background-color: #282c34;
+
+}

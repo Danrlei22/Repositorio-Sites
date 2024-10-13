@@ -11,11 +11,9 @@ function App() {
 
       <NavBar />
       <Welcome />
-
-
+      
       <Projects />
       <SocialMedia />
-
       <Footer />
 
     </div >

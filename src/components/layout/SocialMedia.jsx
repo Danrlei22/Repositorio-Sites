@@ -6,6 +6,7 @@ import { MdEmail } from 'react-icons/md'
 function SocialMedia() {
     return (
         <section className={Styles.sociaisMedia}>
+            <a href="#" id="contato"></a>
             <h2>Meus contatos</h2>
 
             <div className={Styles.icons}>
@@ -38,7 +39,7 @@ function SocialMedia() {
                 </div>
 
             </div>
-        </section>
+        </section >
     )
 }
 
