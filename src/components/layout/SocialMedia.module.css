@@ -1,5 +1,5 @@
 .sociaisMedia {
-  background-color: rgb(97, 102, 105);
+  background-color: #282c34;
   width: 100%;
   height: auto;
   padding: 1em;
@@ -16,7 +16,7 @@
 }
 
 .iconLinkedin {
-  color: #0077b5;
+  color: #0A66C2;
 }
 
 .iconInstagram {
@@ -48,7 +48,6 @@
 }
 
 .listIcons li a {
-  color: white;
   text-decoration: none;
 }
 

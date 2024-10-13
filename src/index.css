@@ -5,6 +5,10 @@
 }
 
 body{
-  background-color: rgb(101, 80, 141);
+  background: linear-gradient(to bottom, 
+    #61DAFB 0%,
+    #61DAFB 40%,
+    #2C3E50 60%,
+    #000 100%);
   font-family: 'Arial', 'Helvetica', sans-serif;
 }

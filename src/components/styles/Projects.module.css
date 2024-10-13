@@ -1,4 +1,33 @@
-#projects{
-    background-color: rgb(101, 80, 141);
-    padding: 2em;
-  }
+.containerProjects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 2em 4em;
+  background-color: #000;
+}
+
+.containerProjects .project{
+  max-width: 600px;
+  text-align: center;
+  background-color: #61DAFB;
+  margin: 5px;
+  border:  2px solid black;
+  border-radius: 10px;
+}
+
+.containerProjects .project img{
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+  margin: 5px;
+}
+
+.containerProjects .project h2{
+  margin: 5px;
+  font-size: 30px;
+}
+
+.containerProjects .project p{
+  margin: 5px;
+  font-size: 20px;
+}

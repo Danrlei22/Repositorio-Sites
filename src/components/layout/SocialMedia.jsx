@@ -17,7 +17,7 @@ function SocialMedia() {
                     </li>
                     <li>
                         <a href="https://www.linkedin.com/in/danrlei-vieira-85b335231/" target="_blank" rel="noopener noreferrer">
-                            <FaLinkedin className={Styles.iconLikedin} />
+                            <FaLinkedin className={Styles.iconLinkedin} />
                         </a>
                     </li>
                     <li>
